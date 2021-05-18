@@ -1,0 +1,10 @@
+Tasques UD2 - GIT
+Realiza las actividades adjuntas referentes a la UD2- Repositorios GIT
+
+TAREAS A REALIZAR:
+
+1 - Crea una cuenta en GitHub (adjunta capturas de pantalla y nombre de usuario). 
+2 - Crea un repositorio por cada ejercicio realizado en la UD1 y sincroniza el código desde Visual Studio, recuerda que han de estar visibles. (Adjunta url de cada uno de los proyectos)
+2 - Instala GitKraken y sincroniza los repositorios anteriores. (adjunta captura de pantalla)
+Debes adjuntar las URL de los diferentes repositorios realizados para resolver la tarea. Recuerda que tienes fecha límite de entrega. 
+
